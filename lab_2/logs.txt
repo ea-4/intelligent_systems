@@ -1,0 +1,212 @@
+(.venv) @ea-4 ➜ /workspaces/intelligent_systems (lab_2) $ python lab_2/run_agent.py
+SeismicSensor Agent ea4@xmpp.jp started.
+[[SEISMIC SENSOR]] Vibration: 7.49 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 9.01 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 4.90 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 2.74 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 4.43 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 1.15 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 4.67 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 9.59 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 1.82 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 7.78 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 7.61 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 3.45 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 1.14 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 2.36 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 5.24 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 8.68 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 3.30 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 7.17 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 9.18 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 5.36 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 3.27 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 5.68 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 1.85 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 8.22 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 2.07 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 1.06 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 2.23 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 7.33 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 7.00 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 5.20 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 3.65 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 3.25 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 8.29 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 4.61 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 8.35 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 9.57 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 9.06 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 3.53 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 2.39 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 9.00 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 2.45 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 9.53 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 3.53 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 1.07 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 3.11 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 3.36 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 1.67 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 3.00 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 7.64 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 1.15 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 7.94 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 4.31 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 6.13 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 9.80 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 6.82 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 7.90 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 1.74 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 7.76 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 9.63 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 2.45 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 6.20 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 5.37 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 6.83 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 3.75 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 3.47 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 5.37 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 2.17 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 1.21 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 7.27 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 8.17 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 1.99 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 7.69 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 3.82 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 5.52 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 5.58 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 4.85 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 6.14 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 3.56 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 7.50 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 1.17 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 8.02 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 6.25 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 1.57 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 8.86 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 1.88 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 1.95 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 9.94 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 5.38 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 3.41 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 1.72 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 5.11 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 7.55 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 7.81 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 1.86 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 7.09 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 3.24 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 5.18 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 2.37 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 3.27 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 5.65 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 5.90 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 1.93 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 7.04 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 2.19 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 8.31 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 7.54 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 2.46 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 3.30 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 6.10 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 4.93 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 4.89 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 6.64 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 5.69 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 6.45 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 4.69 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 6.38 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 3.85 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 3.17 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 3.87 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 8.23 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 9.86 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 2.91 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 4.32 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 8.90 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 6.03 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 2.76 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 7.60 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 8.41 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 8.77 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 5.42 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 4.16 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 4.68 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 2.87 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 1.33 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 8.11 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 7.00 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 1.57 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 4.53 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 2.50 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 8.99 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 4.15 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 3.70 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 5.44 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 7.15 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 9.07 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 2.94 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 6.82 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 9.06 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 8.58 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 4.56 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 2.41 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 9.45 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 8.09 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 3.87 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 6.59 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 1.25 | Status: NORMAL
+[[SEISMIC SENSOR]] Vibration: 6.71 | Status: WARNING
+[[SEISMIC SENSOR]] Vibration: 3.44 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 4.86 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 2.62 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 8.18 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 7.77 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 3.31 | Status: MINOR ACTIVITY
+[[SEISMIC SENSOR]] Vibration: 9.44 | Status: EARTHQUAKE ALERT
+>>> Critical seismic event detected!!!
+[[SEISMIC SENSOR]] Vibration: 5.85 | Status: WARNING
